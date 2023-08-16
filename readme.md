@@ -38,7 +38,7 @@ To get started with the ** GIT Commands ** project, follow these steps:
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and your life is easier !
 
-## Yay! for YDATA libraries !!!!
+
 
 
 
