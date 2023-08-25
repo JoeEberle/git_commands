@@ -8,19 +8,12 @@ def create_directory(directory_path):
     ''' the create_directory function will create a driectory if it doesnt already exist ''' 
     import os  
     try:
-        os.makedirs(directory_path)
-        status = f"Successsfully created directory:{directory_path} "  
-    except OSError as e:
-        status = f"Failed to create directory '{directory_path}': {e}" 
+        os_stat = os.mkdir(directory_path)
+    except:
+        status = "Error attempting to create directory:{}".format(directory_path)
+    else:
+        status = "Directory:{} created".format(directory_path)
     return(status) 
-
-
-
-try:
-    os.makedirs(directory_path)
-    print(f"Directory '{directory_path}' created successfully.")
-except OSError as e:
-    print(f"Failed to create directory '{directory_path}': {e}") 
 
 def copy_all_files(path, extension, target_dir):
     ''' the copy_all_files function will copy all the files of a specific type (extension) to a target directory ''' 
