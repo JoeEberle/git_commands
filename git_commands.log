@@ -6,3 +6,4 @@
 2023-09-04 16:22:11,747 - INFO - Process git_commands Step 0 - Initializing and starting Process.
 2023-09-04 16:22:34,916 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
 2023-09-04 16:22:54,192 - INFO - Process git_commands  Step 3 - Copy any of your global use python libraries to the local git repositories .
+2023-09-04 16:23:01,133 - INFO - Process git_commands  Step 4 - Add and commit current updates to the local git repositories.
