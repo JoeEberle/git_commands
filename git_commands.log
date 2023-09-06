@@ -7,3 +7,5 @@
 2023-09-05 22:20:50,880 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
 2023-09-05 22:20:56,984 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
 2023-09-05 22:21:03,770 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
+2023-09-05 22:21:22,721 - INFO - Process git_commands  Step 3 - Copy any of your global use python libraries to the local git repositories .
+2023-09-05 22:21:29,513 - INFO - Process git_commands  Step 4 - Add and commit current updates to the local git repositories.
