@@ -1,9 +1,0 @@
-2023-09-10 19:04:13,241 - INFO - START git_commands =============================================
-2023-09-10 19:04:13,241 - INFO - START git_commands Start Time = 2023-09-10 19:04:13
-2023-09-10 19:04:13,241 - INFO - git_commands Step 0 - Initialize the configuration file parser
-2023-09-10 19:04:13,291 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2023-09-10 19:04:13,292 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
-2023-09-10 19:04:18,667 - INFO - Process git_commands Step 0 - Initializing and starting Process.
-2023-09-10 19:04:41,531 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
-2023-09-10 19:04:47,566 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
-2023-09-10 19:04:54,261 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
