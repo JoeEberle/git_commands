@@ -1,0 +1,7 @@
+2023-10-19 21:44:38,408 - INFO - START git_commands =============================================
+2023-10-19 21:44:38,408 - INFO - START git_commands Start Time = 2023-10-19 21:44:38
+2023-10-19 21:44:38,408 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2023-10-19 21:44:38,409 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2023-10-19 21:44:38,653 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
+2023-10-19 21:44:38,708 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
+2023-10-19 21:44:38,723 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
