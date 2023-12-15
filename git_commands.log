@@ -1,9 +1,9 @@
-2023-12-15 11:23:47,663 - INFO - START git_commands =============================================
-2023-12-15 11:23:47,663 - INFO - START git_commands Start Time = 2023-12-15 11:23:47
-2023-12-15 11:23:47,664 - INFO - git_commands Step 0 - Initialize the configuration file parser
-2023-12-15 11:23:47,664 - INFO - Process git_commands Step 0 - Initializing and starting Process.
-2023-12-15 11:23:47,902 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
-2023-12-15 11:23:47,975 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
-2023-12-15 11:23:47,988 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
-2023-12-15 11:23:48,046 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2023-12-15 11:23:48,047 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-12-15 11:28:58,488 - INFO - START git_commands =============================================
+2023-12-15 11:28:58,488 - INFO - START git_commands Start Time = 2023-12-15 11:28:58
+2023-12-15 11:28:58,488 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2023-12-15 11:28:58,489 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2023-12-15 11:28:58,716 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
+2023-12-15 11:28:58,787 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
+2023-12-15 11:28:58,799 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
+2023-12-15 11:28:58,838 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-12-15 11:28:58,838 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
