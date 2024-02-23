@@ -93,3 +93,22 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-02-23 14:28:38,520 - INFO - START git_commands =============================================
+2024-02-23 14:28:38,521 - INFO - START git_commands Start Time = 2024-02-23 14:28:38
+2024-02-23 14:28:38,521 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-02-23 14:28:38,521 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-02-23 14:28:38,883 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
+2024-02-23 14:28:38,963 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
+2024-02-23 14:28:38,976 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
+2024-02-23 14:29:11,697 - INFO - Process git_commands Step 4 - Added content, commited, and pushed 39 repositories  to github
+2024-02-23 14:29:19,077 - INFO - Process git_commands  Step 3 - Copy any of your global use python libraries to the local git repositories .
+2024-02-23 14:29:19,107 - INFO - PERFORMANCE git_commands The total process duration was:40.59
+2024-02-23 14:29:19,107 - INFO - PERFORMANCE git_commands Stop Time = 2024-02-23 14:29:19
+2024-02-23 14:29:19,107 - INFO - PERFORMANCE git_commands Low process duration less than 3 minutes:40.59
+2024-02-23 14:29:19,107 - INFO - PERFORMANCE git_commands Performance optimization is optional
+2024-02-23 14:29:19,107 - INFO - END git_commands =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
