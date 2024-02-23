@@ -1,7 +1,7 @@
-2024-02-23 14:30:04,488 - INFO - START git_commands =============================================
-2024-02-23 14:30:04,488 - INFO - START git_commands Start Time = 2024-02-23 14:30:04
-2024-02-23 14:30:04,488 - INFO - git_commands Step 0 - Initialize the configuration file parser
-2024-02-23 14:30:04,488 - INFO - Process git_commands Step 0 - Initializing and starting Process.
-2024-02-23 14:30:04,727 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
-2024-02-23 14:30:04,805 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
-2024-02-23 14:30:04,818 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
+2024-02-23 14:31:11,896 - INFO - START git_commands =============================================
+2024-02-23 14:31:11,896 - INFO - START git_commands Start Time = 2024-02-23 14:31:11
+2024-02-23 14:31:11,896 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-02-23 14:31:11,897 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-02-23 14:31:12,115 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of projects.
+2024-02-23 14:31:12,193 - INFO - Process git_commands Step 2 - Create a project folder for each project if it doesnt already exist.
+2024-02-23 14:31:12,207 - INFO - Process git_commands Optional Step 3 -One time setup - If the local .git repository does not exist
