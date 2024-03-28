@@ -1,6 +1,4 @@
-# Git Commands - Welcome to the **git_commands** repository! 
-
-## This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
+# Git Commands - Welcome to the **git_commands** repository! This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
 
 ![Code Logo](code.png)
 
@@ -10,7 +8,6 @@ Welcome to the solution Git Commands - an example for your projects
 
 Welcome to the **git_commands** repository! This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
 
-![Sample Logo](sample.png)
 
 ## Features
 
