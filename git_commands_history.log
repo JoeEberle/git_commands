@@ -1037,3 +1037,18 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-03-30 00:19:21,076 - INFO - START git_commands =============================================
+2024-03-30 00:19:21,076 - INFO - START git_commands Start Time = 2024-03-30 00:19:21
+2024-03-30 00:19:21,077 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-03-30 00:19:21,077 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-03-30 00:19:21,452 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of existing solutions.
+2024-03-30 00:20:45,435 - INFO - PERFORMANCE git_commands The total process duration was:84.36
+2024-03-30 00:20:45,435 - INFO - PERFORMANCE git_commands Stop Time = 2024-03-30 00:20:45
+2024-03-30 00:20:45,435 - INFO - PERFORMANCE git_commands Low process duration less than 3 minutes:84.36
+2024-03-30 00:20:45,435 - INFO - PERFORMANCE git_commands Performance optimization is optional
+2024-03-30 00:20:45,435 - INFO - END git_commands =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
