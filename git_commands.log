@@ -1,5 +1,0 @@
-2024-04-06 17:23:14,094 - INFO - START git_commands =============================================
-2024-04-06 17:23:14,095 - INFO - START git_commands Start Time = 2024-04-06 17:23:14
-2024-04-06 17:23:14,095 - INFO - git_commands Step 0 - Initialize the configuration file parser
-2024-04-06 17:23:14,095 - INFO - Process git_commands Step 0 - Initializing and starting Process.
-2024-04-06 17:23:14,616 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of existing solutions.
