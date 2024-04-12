@@ -1,4 +1,7 @@
-# Git Commands - Welcome to the **git_commands** repository! This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
+# Git Commands - Welcome to the **git_commands** repository! 
+##This project demonstrates how to update, maintain, and archive All of your work in progress. 
+
+NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
 
 ![Code Logo](code.png)
 
@@ -6,11 +9,13 @@
 
 Welcome to the solution Git Commands - an example for your projects
 
-Welcome to the **git_commands** repository! This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!. Moves files to github. 
+Welcome to the **git_commands** repository!
+1. This project demonstrates how to update, maintain, and archive All of your work in progress. NEVER LOSE YOUR WORK IN PROGRESS AGAIN!!!!.
+2. Moves only your **changed** files to github. 
 
-Git is a distributed version control system designed to track changes in source code during software development, allowing multiple developers to collaborate, manage different versions, and merge their work seamlessly. It enables efficient code management, fosters collaboration, and ensures the integrity and history of a project's development.
+**Git** is a distributed version control system designed to track changes in source code during software development, allowing multiple developers to collaborate, manage different versions, and merge their work seamlessly. It enables efficient code management, fosters collaboration, and ensures the integrity and history of a project's development.
 
-GitHub is a web-based platform for version control using Git, enabling collaboration among software developers by allowing them to host, review, and manage code repositories. It provides tools for tracking changes, managing issues, and facilitating contributions through pull requests.
+**GitHub** is a web-based platform for version control using Git, enabling collaboration among software developers by allowing them to host, review, and manage code repositories. It provides tools for tracking changes, managing issues, and facilitating contributions through pull requests.
 
 ## Git command samples
 - git init
