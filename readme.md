@@ -1,6 +1,6 @@
 
-# Git Commands - Git is a distributed version control system designed to track changes in source code during software development.
-Git is a distributed version control system designed to track changes in source code during software development.
+# Git Commands - Git allows you to quickly download pre-built solutions  
+Git allows you to quickly download pre-built solutions  
 
 ![Image image_filename](code.png)
 
