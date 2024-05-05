@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Git Commands - Git allows you to quickly download pre-built solutions  
 Git allows you to quickly download pre-built solutions  
 
@@ -10,8 +12,6 @@ Git allows you to quickly download pre-built solutions
 - **Git** enables efficient **code management**, fosters collaboration, and ensures the integrity and history of a projects development.
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
