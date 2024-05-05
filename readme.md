@@ -49,5 +49,5 @@ To get started with the **Git Commands** solution repository, follow these steps
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](git  and github.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](git  and github.png)  <br>
     
