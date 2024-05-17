@@ -11,6 +11,8 @@ Git allows you to quickly download pre-built solutions
 - **Git** allows multiple developers to **collaborate**, manage different versions, and merge their work seamlessly.
 - **Git** enables efficient **code management**, fosters collaboration, and ensures the integrity and history of a projects development.
 
+ <br>
+
 ![Image image_filename](sample.png)
 
 ## Getting Started
@@ -37,7 +39,7 @@ To get started with the **Git Commands** solution repository, follow these steps
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](git  and github.png)  <br>
+ ![additional_image](git  and github.png)  <br>![additional_image](git_repo_image.png)  <br>
     
 
 ## Github    
