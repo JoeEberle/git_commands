@@ -4288,3 +4288,22 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 22:20:55,289 - INFO - START git_commands =============================================
+2024-07-21 22:20:55,289 - INFO - START git_commands Start Time = 2024-07-21 22:20:55
+2024-07-21 22:20:55,289 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-07-21 22:20:55,289 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-07-21 22:20:55,768 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of existing solutions.
+2024-07-21 22:20:55,768 - INFO - There are 113 existing solutions
+2024-07-21 22:20:55,769 - INFO - The are 113 existing solutions with 4 columns
+2024-07-21 22:21:47,043 - INFO - 60 Push failed folder : quicklogging repository. Error code : 1
+2024-07-21 22:22:10,491 - INFO - 87 Push failed folder : solution_template repository. Error code : 1
+2024-07-21 22:22:52,918 - INFO - PERFORMANCE git_commands The total process duration was:117.63
+2024-07-21 22:22:52,918 - INFO - PERFORMANCE git_commands Stop Time = 2024-07-21 22:22:52
+2024-07-21 22:22:52,919 - INFO - PERFORMANCE git_commands Low process duration less than 3 minutes:117.63
+2024-07-21 22:22:52,919 - INFO - PERFORMANCE git_commands Performance optimization is optional
+2024-07-21 22:22:52,919 - INFO - END git_commands =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
