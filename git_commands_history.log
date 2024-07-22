@@ -4247,3 +4247,24 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 21:39:53,862 - INFO - START git_commands =============================================
+2024-07-21 21:39:53,862 - INFO - START git_commands Start Time = 2024-07-21 21:39:53
+2024-07-21 21:39:53,862 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-07-21 21:39:53,863 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-07-21 21:39:54,295 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of existing solutions.
+2024-07-21 21:39:54,296 - INFO - There are 113 existing solutions
+2024-07-21 21:39:54,297 - INFO - The are 113 existing solutions with 4 columns
+2024-07-21 21:39:57,816 - INFO - 4 Push failed folder : automating_windows_task_scheduler repository. Error code : 1
+2024-07-21 21:40:46,845 - INFO - 60 Push failed folder : quicklogging repository. Error code : 1
+2024-07-21 21:41:00,562 - INFO - 76 Push failed folder : predicting_diabetes repository. Error code : 128
+2024-07-21 21:41:10,966 - INFO - 87 Push failed folder : solution_template repository. Error code : 1
+2024-07-21 21:41:54,967 - INFO - PERFORMANCE git_commands The total process duration was:121.10
+2024-07-21 21:41:54,967 - INFO - PERFORMANCE git_commands Stop Time = 2024-07-21 21:41:54
+2024-07-21 21:41:54,967 - INFO - PERFORMANCE git_commands Medium process duration greater than 3 minutes:121.10
+2024-07-21 21:41:54,967 - INFO - PERFORMANCE git_commands Performance optimization is optional
+2024-07-21 21:41:54,967 - INFO - END git_commands =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
