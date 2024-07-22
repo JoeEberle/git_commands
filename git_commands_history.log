@@ -4268,3 +4268,23 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-07-21 22:11:39,587 - INFO - START git_commands =============================================
+2024-07-21 22:11:39,587 - INFO - START git_commands Start Time = 2024-07-21 22:11:39
+2024-07-21 22:11:39,587 - INFO - git_commands Step 0 - Initialize the configuration file parser
+2024-07-21 22:11:39,588 - INFO - Process git_commands Step 0 - Initializing and starting Process.
+2024-07-21 22:11:40,040 - INFO - Process git_commands Step 1 - Import in the solutions excel File so you have a list of existing solutions.
+2024-07-21 22:11:40,041 - INFO - There are 113 existing solutions
+2024-07-21 22:11:40,042 - INFO - The are 113 existing solutions with 4 columns
+2024-07-21 22:12:31,338 - INFO - 60 Push failed folder : quicklogging repository. Error code : 1
+2024-07-21 22:12:44,777 - INFO - 76 Push failed folder : predicting_diabetes repository. Error code : 128
+2024-07-21 22:12:54,255 - INFO - 87 Push failed folder : solution_template repository. Error code : 1
+2024-07-21 22:13:37,634 - INFO - PERFORMANCE git_commands The total process duration was:118.05
+2024-07-21 22:13:37,634 - INFO - PERFORMANCE git_commands Stop Time = 2024-07-21 22:13:37
+2024-07-21 22:13:37,634 - INFO - PERFORMANCE git_commands Low process duration less than 3 minutes:118.05
+2024-07-21 22:13:37,634 - INFO - PERFORMANCE git_commands Performance optimization is optional
+2024-07-21 22:13:37,634 - INFO - END git_commands =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
