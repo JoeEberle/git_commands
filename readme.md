@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Git Commands - nan
-nan
+# Git Commands - Git allows you to quickly download pre-built solutions  
+Git allows you to quickly download pre-built solutions  
 
 ![Image image_filename](code.png)
 
