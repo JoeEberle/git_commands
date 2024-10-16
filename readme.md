@@ -101,11 +101,8 @@ To get started with the **Git Commands** solution repository, follow these steps
  ![additional_image](git  and github.png)  <br>![additional_image](git_repo_image.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
