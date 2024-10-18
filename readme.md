@@ -4,7 +4,25 @@
 
 ## Git allows you to quickly download pre-built solutions  
 
-    ![Image image_filename](code.png)
+    
+![Solution](code.png)
+
+    
+## Table of Contents
+
+- [Solution Overview](#solution-overview)
+- [Who will use this ?](#who-can-use)
+- [Advantages of Using](#advantages-of-using)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Code Features](#code-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+
 ## Git Version Control
 - **Git** is a distributed **version control system** designed to track changes in source code during software development.
 - **Git** allows multiple developers to **collaborate**, manage different versions, and merge their work seamlessly.
@@ -70,7 +88,13 @@ While no system can be entirely free of risk, GitHub's comprehensive security me
   8. **git branch -M main** - Create or rename the main branch again 
   9. **git push -u origin main** - Push changes to the main branch of the second remote repository 
  <br>
-![Image image_filename](code.png)![Image image_filename](sample.png)
+
+![Solution](code.png)
+
+    
+![Solution](code.png)
+
+    
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
