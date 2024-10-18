@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Git Commands 
-    ## Git allows you to quickly download pre-built solutions  
+    
+# Git Commands 
+
+## Git allows you to quickly download pre-built solutions  
+
     ![Image image_filename](code.png)
 ## Git Version Control
 - **Git** is a distributed **version control system** designed to track changes in source code during software development.
@@ -87,9 +90,9 @@ To get started with the **Git Commands** solution repository, follow these steps
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Git Commands** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -99,6 +102,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](git  and github.png)  <br>![additional_image](git_and_github.png)  <br>![additional_image](git_repo_image.png)  <br>
