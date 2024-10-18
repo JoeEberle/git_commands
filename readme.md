@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Git Commands - Git allows you to quickly download pre-built solutions  ![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Git Commands 
+    ## Git allows you to quickly download pre-built solutions  
+    ![Image image_filename](code.png)
 ## Git Version Control
 - **Git** is a distributed **version control system** designed to track changes in source code during software development.
 - **Git** allows multiple developers to **collaborate**, manage different versions, and merge their work seamlessly.
@@ -74,12 +77,15 @@ To get started with the **Git Commands** solution repository, follow these steps
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
@@ -95,7 +101,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Educational** - Includes educational dialogue and background material
     
 ## List of Figures
- ![additional_image](git  and github.png)  <br>![additional_image](git_repo_image.png)  <br>
+ ![additional_image](git  and github.png)  <br>![additional_image](git_and_github.png)  <br>![additional_image](git_repo_image.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
