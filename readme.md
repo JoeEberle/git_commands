@@ -68,7 +68,7 @@ Corporations increasingly view GitHub as a **safe** and **secure** way to manage
 
 ## Compliance Features - GitHub complies with several industry standards and regulations, including:
 
-1. **SOC 2 Type 2**: GitHub meets the standards for managing customer data based on five "trust service principles"—security, availability, processing integrity, confidentiality, and privacy.
+1. **SOC 2 Type 2**: GitHub meets the standards for managing customer data based on five "trust service principles"â€”security, availability, processing integrity, confidentiality, and privacy.
 2. **GDPR**: GitHub complies with the General Data Protection Regulation (GDPR), ensuring the protection of personal data of EU citizens.
 3. **ISO/IEC 27001**: GitHub follows the ISO/IEC 27001 standard for information security management systems.
 
